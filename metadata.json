@@ -1,0 +1,5 @@
+{
+  "name": "PetFlow",
+  "description": "Um sistema inteligente de agendamento e gestão para pet shops, com painéis distintos para Clientes (donos de pets) e Donos de Petshop (administradores).",
+  "requestFramePermissions": []
+}
